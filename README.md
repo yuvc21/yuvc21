@@ -15,7 +15,7 @@
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-Heyy, I'm **yuvaraj** an average tech enthusiast.. 
+Heyy, I'm **G Yuvaraj**, currently pursuing B.Tech in Electronics and Communication Engineering from NIT Agartala.
 ## 📫 If you want to contact me
 ✉️ [Email](mailto:oanduraj06211@gmail.com)
 
