@@ -1,7 +1,7 @@
 ## 👋 Introduction
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+<img align='right' src='shigure-ui-dance.gif' width='200'>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
